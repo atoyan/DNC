@@ -1,0 +1,13 @@
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\bin\Debug\DNC.exe.config
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\bin\Debug\DNC.exe
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\bin\Debug\DNC.pdb
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.csprojResolveAssemblyReference.cache
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.Properties.Resources.resources
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.csproj.GenerateResource.Cache
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.exe
+c:\users\wc_an\onedrive\έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.pdb
+C:\Users\wc_an\OneDrive\Έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.Outgoing.resources
+C:\Users\wc_an\OneDrive\Έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.Launcher.resources
+C:\Users\wc_an\OneDrive\Έγγραφα\visual studio 2015\Projects\DNC\DNC\obj\Debug\DNC.Incoming.resources
+C:\Users\wc_an\OneDrive\Έγγραφα\Visual Studio 2015\Projects\DNC\DNC\obj\Debug\DNC.IncomingPartTwo.resources
+C:\Users\wc_an\OneDrive\Έγγραφα\Visual Studio 2015\Projects\DNC\DNC\obj\Debug\DNC.ExitApplication.resources
