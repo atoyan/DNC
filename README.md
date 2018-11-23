@@ -1,5 +1,6 @@
 # DNC_SERIAL_COM
-A DNC program made for communication between two computers (or a computer and a CNC Machine) via serial (RS23) ports .
+A DNC program made for communication between two computers (or a computer and a CNC Machine) via serial (RS232) ports.
+You can also use a USB-RS232 adapter able.
 
 
 ### Quick Start
